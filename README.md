@@ -18,16 +18,15 @@ We applied the following methods for data preprocessing and model training:
 
 
 Model Training and Prediction
-
 We trained multiple machine learning models on the processed data, including:
 
-Logistic Regression
+-Logistic Regression
 
-Decision Tree Classifier
+-Decision Tree Classifier
 
-Gradient Boosting Classifier
+-Gradient Boosting Classifier
 
-Random Forest Classifier
+-Random Forest Classifier
 
 
 Each model was trained to classify news articles as either fake or real. The results were predicted using all models, allowing us to compare their performance and accuracy
